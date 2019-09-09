@@ -44,3 +44,6 @@ tutor-karma.conf.js
 Thumbs.db
 
 package-lock.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/config/applicationhost.config
